@@ -1,0 +1,10 @@
+{
+  "name": "CITest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "anuj-zylotech <anuj.singh@zylotech.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
